@@ -1,2 +1,2 @@
 # GC2-xHAT
-Raspberry Pi Extended HAT
+Raspberry Pi Zero Extended HAT PCB
