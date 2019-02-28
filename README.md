@@ -7,10 +7,12 @@ Raspberry Pi Zero Extended HAT PCB
   CLK  ... GPIO23  
   DIO  ... GPIO24   
 - **Sensors**
-	 - DHT11/DHT22/AM2302 (Proprietary 1-Wire Bus) - Humidity & Temperature
+	 - DHT11/DHT22/AM2302 (Proprietary 1-Wire Bus) - Humidity & Temperature (GPIO22, External Pull-up)
 	 - AMD2320/AMD2322 (I2C Bus) - Humidity & Temperature
-	 - DS18B20 (1-Wire Bus) - Temperature
+	 - DS18B20 (1-Wire Bus) - Temperature (GPIO04, External Pull-up)
 	 - HC-SR04 (Proprietary Interface) - Distance
+             TRIGGER ... GPIO17 (Active High)  
+             ECHO ... GPIO27 (5 to 3V)  
 - **Traffic Light** 
 	 - LED red (GPIO16, Active High, Default off)
 	 - LED yellow/orange (GPIO20, Active High, Default off)
