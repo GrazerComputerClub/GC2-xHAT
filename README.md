@@ -11,8 +11,8 @@ Raspberry Pi Zero Extended HAT PCB
 	 - AMD2320/AMD2322 (I2C Bus) - Humidity & Temperature
 	 - DS18B20 (1-Wire Bus) - Temperature (GPIO04, External Pull-up)
 	 - HC-SR04 (Proprietary Interface) - Distance  
-             TRIGGER ... GPIO17 (Active High)  
-             ECHO ... GPIO27 (Active High, External 5V to 3V divider)  
+             TRIGGER ... GPIO17  
+             ECHO ... GPIO27 (External 5V to 3V divider for input)  
 - **Traffic Light** 
 	 - LED red (GPIO16, Active High, Default off)
 	 - LED yellow/orange (GPIO20, Active High, Default off)
