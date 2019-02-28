@@ -23,8 +23,8 @@ Raspberry Pi Zero Extended HAT PCB
   MOSI  ... GPIO10  
   MISO  ... GPIO09  
   SCK   ... GPIO11  
-- ESP-01 (ESP8266) Programming/Testing
-  RST ... GPIO06 (Active Low, Default High)
+- ESP-01 (ESP8266) Programming/Testing  
+  RST ... GPIO06 (Active Low, Default High)  
   GPIO0  ... GPI12 (High ... Programming, Low ... Flash-Boot, Default Low)  
   TXD  ... GPIO14  
   RXD  ... GPIO15  
