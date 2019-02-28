@@ -19,15 +19,15 @@ Raspberry Pi Zero Extended HAT PCB
 	 - S3 (GPIO21, Active High, Default Low)
 - Buzzer (GPIO18, Active High, Default off) 
 - ATmega 328P Programming/Testing  
-  RESET ... GPIO25 (Active Low, Default Low with no Power, Default High with Power)
-  MOSI  ... GPIO10
-  MISO  ... GPIO09
-  SCK   ... GPIO11
+  RESET ... GPIO25 (Active Low, Default Low with no Power, Default High with Power)  
+  MOSI  ... GPIO10  
+  MISO  ... GPIO09  
+  SCK   ... GPIO11  
 - ESP-01 (ESP8266) Programming/Testing
   RST ... GPIO06 (Active Low, Default High)
-  GPIO0  ... GPI12 (High ... Programming, Low ... Flash-Boot, Default Low)
-  TXD  ... GPIO14
-  RXD  ... GPIO15
+  GPIO0  ... GPI12 (High ... Programming, Low ... Flash-Boot, Default Low)  
+  TXD  ... GPIO14  
+  RXD  ... GPIO15  
 - Power Switch for ATmega and ESP-01 (GPIO05, Active Low, Default off)
 - HAT EEPROM (I2C Bus)  
 	 I2C0, A0-A2 Low
