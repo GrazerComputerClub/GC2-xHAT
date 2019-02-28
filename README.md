@@ -10,7 +10,7 @@ Raspberry Pi Zero Extended HAT PCB
 	 - DHT11/DHT22/AM2302 (Proprietary 1-Wire Bus) - Humidity & Temperature (GPIO22, External Pull-up)
 	 - AMD2320/AMD2322 (I2C Bus) - Humidity & Temperature
 	 - DS18B20 (1-Wire Bus) - Temperature (GPIO04, External Pull-up)
-	 - HC-SR04 (Proprietary Interface) - Distance
+	 - HC-SR04 (Proprietary Interface) - Distance  
              TRIGGER ... GPIO17 (Active High)  
              ECHO ... GPIO27 (5 to 3V)  
 - **Traffic Light** 
