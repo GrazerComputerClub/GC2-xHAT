@@ -4,6 +4,8 @@ Raspberry Pi Zero Extended HAT PCB
 ## Features
 
 - **7-Segment Display** - 4-Digits TM1637 (Proprietary 2-Wire Bus)
+  CLK  ... GPIO23  
+  DIO  ... GPIO24   
 - **Sensors**
 	 - DHT11/DHT22/AM2302 (Proprietary 1-Wire Bus) - Humidity & Temperature
 	 - AMD2320/AMD2322 (I2C Bus) - Humidity & Temperature
