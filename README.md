@@ -1,5 +1,5 @@
 # GC2-xHAT
-Raspberry Pi Zero Extended HAT PCB
+Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ## Features
 
