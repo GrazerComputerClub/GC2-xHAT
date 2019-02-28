@@ -26,10 +26,10 @@ Raspberry Pi Zero Extended HAT PCB
   MISO  ... GPIO09  
   SCK   ... GPIO11  
 - **ESP-01 Sockel** (ESP8266) Programming/Testing  
-  RST ... GPIO06 (Active Low, Default High)  
-  GPIO0  ... GPI12 (High ... Programming, Low ... Flash-Boot, Default Low)  
-  TXD  ... GPIO14  
-  RXD  ... GPIO15  
+  RST   ... GPIO06 (Active Low, Default High)  
+  GPIO0 ... GPIO12 (High ... Programming, Low ... Flash-Boot, Default Low)  
+  TXD   ... GPIO14  
+  RXD   ... GPIO15  
 - Power Switch for ATmega and ESP-01 (GPIO05, Active Low, Default off)
 - HAT EEPROM (I2C Bus)  
 	 I2C0, A0-A2 Low
