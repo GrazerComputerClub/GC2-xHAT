@@ -3,7 +3,7 @@ Raspberry Pi Zero Extended HAT PCB
 
 ## Features
 
-- **7-Segment Display** - 4-Digits TM1637 (Proprietary 2-Wire Bus)
+- **7-Segment Display** - 4-Digits TM1637 (Proprietary 2-Wire Bus)  
   CLK  ... GPIO23  
   DIO  ... GPIO24   
 - **Sensors**
