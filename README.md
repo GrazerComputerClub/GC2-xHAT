@@ -38,3 +38,5 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ![PCB Top](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHATv1.0.png)
 
+![GC2-xHAT](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHAT.jpg)
+
