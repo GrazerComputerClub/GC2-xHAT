@@ -40,3 +40,28 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ![GC2-xHAT](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHAT.jpg)
 
+
+## Components list
+	
+10 x Resistor 1K  (LED, protection)  
+ 4 x Resistor 4K7 (R1, R6, R7, Transistor base)  
+ 1 x Resistor 6K8 (R2)  
+ 1 x Resistor 47K (R5, green LED)  
+ 3 x Tactile switch 6x6mm  
+ 1 x LED red 3mm  
+ 1 x LED orange 3mm  
+ 1 x LED green 3mm  
+ 1 x LED blue 3mm  
+ 1 x LED pink 3mm  
+ 1 x Transistor BC547B  
+ 1 x Female pin header socket 2x4  
+ 1 x Female pin header socket 1x4  
+ 1 x Female pin header socket 2x20  
+ 1 x DHT11 o. DHT22 o. AM2302  
+ 1 x AM2322 o. AM2320  
+ 1 x DS18B20  
+ 1 x TM1637 4 Digi LED display modul (GND, VCC, DIO, CLK)  
+ 1 x Buzzer (O 12mm, 7.2mm holes)  
+ 1 x FET IRLML6401  
+ 1 x EEPROM STM M24C64-WMN6  
+ 2 x SMD 1206 resistor 3K9  
