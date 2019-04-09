@@ -44,7 +44,7 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 ## Components list
 	
 10 x Resistor 470 o. 1K  (LED: R3, R4, R13, R14 ; Protect: R8, R9, R10, R15, R16, R17)  
- 4 x Resistor 4K7 (5V->3V: R1, Pull-up: R6, R7, R11)  
+ 4 x Resistor 4K7 (5V->3V: R1, Pull-up: R6, R7, Transistor base: R11)  
  1 x Resistor 6K8 (5V->3V: R2)  
  1 x Resistor 47K (Green LED: R5)  
  3 x Tactile switch 6x6mm (S1, S2, S3)  
