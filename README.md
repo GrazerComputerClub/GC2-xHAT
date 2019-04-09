@@ -43,25 +43,26 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ## Components list
 	
-10 x Resistor 1K  (LED, protection)  
- 4 x Resistor 4K7 (R1, R6, R7, R11 transistor base)  
- 1 x Resistor 6K8 (R2)  
- 1 x Resistor 47K (R5 green LED)  
- 3 x Tactile switch 6x6mm  
- 1 x LED red 3mm  
- 1 x LED orange 3mm  
- 1 x LED green 3mm  
- 1 x LED blue 3mm  
- 1 x LED pink 3mm  
- 1 x Transistor BC547B  
- 1 x Female pin header socket 2x4  
- 1 x Female pin header socket 1x4  
- 1 x Female pin header socket 2x20  
- 1 x DHT11 o. DHT22 o. AM2302  
- 1 x AM2322 o. AM2320  
- 1 x DS18B20  
+10 x Resistor 470 o. 1K  (LED: R3, R4, R13, R14 ; Protect: R8, R9, R10, R15, R16, R17)  
+ 4 x Resistor 4K7 (5V->3V: R1, Pull-up: R6, R7, R11)  
+ 1 x Resistor 6K8 (5V->3V: R2)  
+ 1 x Resistor 47K (Green LED: R5)  
+ 3 x Tactile switch 6x6mm (S1, S2, S3) 
+ 1 x LED red 3mm (LR)  
+ 1 x LED orange 3mm (LY)  
+ 1 x LED green 3mm (YG)  
+ 1 x LED blue 3mm (LB)  
+ 1 x LED pink 3mm (LP)  
+ 1 x Transistor BC547B (T1)  
+ 1 x Female pin header socket 2x4 (SV2)  
+ 1 x Female pin header socket 1x4 (U$3)  
+ 1 x Female pin header socket 2x20 (SV1)  
+ 1 x DHT11 o. DHT22 o. AM2302 (U$2)  
+ 1 x AM2322 o. AM2320  (U$4 / U$1) 
+ 1 x DS18B20 (IC1)  
  1 x TM1637 4 Digi LED display modul (GND, VCC, DIO, CLK)  
- 1 x Buzzer (O 12mm, 7.2mm holes)  
- 1 x FET IRLML6401  
- 1 x EEPROM STM M24C64-WMN6  
- 2 x SMD 1206 resistor 3K9  
+ 1 x Buzzer (O 12mm, 7.2mm holes) (SG3) 
+ 1 x FET IRLML6401 (Q1) 
+ 1 x EEPROM STM M24C64-WMN6  (24C64)
+ 2 x SMD 1206 resistor 3K9  (R18, R19)
+ 1 x 100NF (C1)
