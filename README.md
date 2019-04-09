@@ -47,7 +47,7 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  4 x Resistor 4K7 (5V->3V: R1, Pull-up: R6, R7, R11)  
  1 x Resistor 6K8 (5V->3V: R2)  
  1 x Resistor 47K (Green LED: R5)  
- 3 x Tactile switch 6x6mm (S1, S2, S3) 
+ 3 x Tactile switch 6x6mm (S1, S2, S3)  
  1 x LED red 3mm (LR)  
  1 x LED orange 3mm (LY)  
  1 x LED green 3mm (YG)  
