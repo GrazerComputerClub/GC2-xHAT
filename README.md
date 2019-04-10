@@ -57,6 +57,7 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x Female pin header socket 2x4 (SV2)  
  1 x Female pin header socket 1x4 (U$3)  
  1 x Female pin header socket 2x20 (SV1)  
+ 1 x 28 Pin DIP-Socket o. 28 Pin ZIF-Sockel (0.3'' Narrow) 
  1 x DHT11 o. DHT22 o. AM2302 (U$2)  
  1 x AM2322 o. AM2320  (U$4 / U$1)  
  1 x DS18B20 (IC1)  
