@@ -58,7 +58,7 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x Female pin header socket 1x4 (U$3)  
  1 x Female pin header socket 2x20 (SV1)  
  1 x DHT11 o. DHT22 o. AM2302 (U$2)  
- 1 x AM2322 o. AM2320  (U$4 / U$1) 
+ 1 x AM2322 o. AM2320  (U$4 / U$1)  
  1 x DS18B20 (IC1)  
  1 x TM1637 4 Digi LED display modul (GND, VCC, DIO, CLK)  
  1 x Buzzer (O 12mm, 7.2mm holes) (SG3)  
