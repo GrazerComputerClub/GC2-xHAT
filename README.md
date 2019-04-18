@@ -20,7 +20,7 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 - **Switches** 
  	 - S1 (GPIO13, Active High, Default Low)
 	 - S2 (GPIO19, Active High, Default Low)
-	 - S3 (GPIO21, Active High, Default Low)
+	 - S3 (GPIO26, Active High, Default Low)
 - **Buzzer** (GPIO18, Active High, Default off) 
 - **ATmega 328P Sockel** Programming/Testing  
   RESET ... GPIO25 (Active Low, Default Low with no Power, Default High with Power)  
