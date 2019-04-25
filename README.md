@@ -69,3 +69,5 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x EEPROM STM M24C64-WMN6 (24C64)  
  2 x SMD 1206 resistor 3K9 (R18, R19)  
  1 x Capacity 100nF (C1)  
+ 2 x Spacer M2.5
+ 2 x Bolt M2.5
