@@ -38,6 +38,8 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ![PCB Top](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHATv1.0.png)
 
+![Circuit diagram](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/circuit_diagram.png)
+
 ![GC2-xHAT](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHAT.jpg)
 
 
@@ -49,7 +51,7 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x Resistor 47K (Green LED: R5)  
  3 x Tactile switch 6x6mm (S1, S2, S3)  
  1 x LED red 3mm (LR)  
- 1 x LED orange 3mm (LY)  
+ 1 x LED yellow/orange 3mm (LY)  
  1 x LED green 3mm (YG)  
  1 x LED blue 3mm (LB)  
  1 x LED pink 3mm (LP)  
@@ -67,3 +69,5 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x EEPROM STM M24C64-WMN6 (24C64)  
  2 x SMD 1206 resistor 3K9 (R18, R19)  
  1 x Capacity 100nF (C1)  
+ 2 x Spacer M2.5  
+ 2 x Bolt M2.5
