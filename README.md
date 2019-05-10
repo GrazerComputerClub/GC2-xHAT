@@ -72,10 +72,10 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  2 x Spacer M2.5  
  2 x Bolt M2.5
 
-* Please choose LED resistor corresponding to LED type and 3.3 V, usually 1 KOhm is ok, but our green LED is a low current type, so even 47K makes a satisfying light  
+\* Please choose LED resistor corresponding to LED type and 3.3 V, usually 1 KOhm is ok, but our green LED is a low current type, so even 47K makes a satisfying light  
 
 
-DE-Bezugsquellen Spezialkomponenten:
+### DE-Bezugsquellen Spezialkomponenten:
 
 DHT11: 
 * [Reichelt](https://www.reichelt.com/de/en/developer-boards-temperature-humidity-sensor-debo-dht-11-p224221.html) 
