@@ -45,10 +45,10 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ## Components list
 	
-10 x Resistor 470 o. 1K  (LED: R3, R4, R13, R14 ; Protect: R8, R9, R10, R15, R16, R17)  
+10 x Resistor 470 o. 1K  (LED*: R3, R4, R13, R14 ; Protect: R8, R9, R10, R15, R16, R17)  
  4 x Resistor 4K7 (5V->3V: R1 ; Pull-up: R6, R7 ; Transistor base: R11)  
  1 x Resistor 6K8 (5V->3V: R2)  
- 1 x Resistor 47K (Green LED: R5)  
+ 1 x Resistor 47K (Green LED: R5*)  
  3 x Tactile switch 6x6mm (S1, S2, S3)  
  1 x LED red 3mm (LR)  
  1 x LED yellow/orange 3mm (LY)  
@@ -62,8 +62,8 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x 28-Pin DIP-Socket o. 28-Pin ZIF-Socket (0.3''/7.62mm Narrow)  
  1 x DHT11 o. DHT22 o. AM2302 (U$2)  
  1 x AM2322 o. AM2320  (U$4 / U$1)  
- 1 x DS18B20 (IC1)  
- 1 x TM1637 4 Digi LED display modul (GND, VCC, DIO, CLK)  
+ 1 x DS18B20 (IC1) 
+ 1 x TM1637 4 Digi LED display modul (GND, VCC, DIO, CLK) 
  1 x Buzzer (O 12mm, 7.2mm holes) (SG3)  
  1 x FET IRLML6401 (Q1)  
  1 x EEPROM STM M24C64-WMN6 (24C64)  
@@ -71,3 +71,33 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x Capacity 100nF (C1)  
  2 x Spacer M2.5  
  2 x Bolt M2.5
+
+* Please choose LED resistor corresponding to LED type and 3.3 V, usually 1 KOhm is ok, but our green LED is a low current type, so even 47K makes a satisfying light  
+
+
+DE-Bezugsquellen Spezialkomponenten:
+
+DHT11: 
+* [Reichelt](https://www.reichelt.com/de/en/developer-boards-temperature-humidity-sensor-debo-dht-11-p224221.html) 
+* [AZ-Delivery](https://www.az-delivery.de/collections/temperatursensoren/products/5-x-dht11-temperatursensor)  
+* [Amazon](https://www.amazon.de/s?k=DHT11)
+
+DHT22: 
+* [Reichelt](https://www.reichelt.com/de/en/development-boards-temperature-humidity-sensor-debo-dht-22-p224218.html) 
+* [AZ-Delivery](https://www.az-delivery.de/collections/temperatursensoren/products/dht22)   
+* [Amazon](https://www.amazon.de/s?k=DHT22)
+
+AM2320: 
+* [Amazon](https://www.amazon.de/s?k=AM2320) 
+
+DS18B20: 
+* [Reichelt](https://www.reichelt.com/de/en/digital-thermometer-1-wire-0-5-c-to-92-ds-18b20-p58169.html) 
+* [AZ-Delivery](https://www.az-delivery.de/collections/temperatursensoren/products/5ersetds18b20)  
+* [Amazon](https://www.amazon.de/s?k=18B20)
+
+TM1637: 
+* [AZ-Delivery](https://www.az-delivery.de/products/4-digit-display)
+* [Amazon](https://www.amazon.de/s?k=TM1637)
+
+Buzzer:
+* [Amazon](https://www.amazon.de/s?k=Beeper+5V)
