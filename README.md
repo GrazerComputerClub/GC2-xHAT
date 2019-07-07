@@ -66,14 +66,19 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
  1 x TM1637 4 Digi LED display modul (GND, VCC, DIO, CLK)  
  1 x Buzzer (O 12mm, 7.2mm holes) (SG3)  
  1 x FET IRLML6401 (Q1)  
- 1 x EEPROM STM M24C64-WMN6 (24C64)  
+ 1 x EEPROM STM M24C64-WMN6 (24C64) ** 
  2 x SMD 1206 resistor 3K9 (R18, R19)  
  1 x Capacity 100nF (C1)  
  2 x Spacer M2.5  
  2 x Bolt M2.5
 
 \* Please choose LED resistor corresponding to LED type and 3.3 V, usually 1 KOhm is ok, but our green LED is a low current type, so even 47K makes a satisfying light  
+\** Different sizes and manufacturers are possible if EEPROM comply with the Raspberry Pi HAT EEPROM specification (8 bit data, 16 bit address, I2C @ 100 kHz, 3.3 V)
 
+### China-Bezugsquellen Spezialkomponenten:
+
+DHT11, DHT22, AM2320, AM2322, TM1637, Buzzer  
+[RoarKit](https://de.aliexpress.com/store/1266255)
 
 ### DE-Bezugsquellen Spezialkomponenten:
 
