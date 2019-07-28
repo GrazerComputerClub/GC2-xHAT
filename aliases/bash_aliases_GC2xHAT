@@ -6,7 +6,7 @@ alias esppoweroff='atpoweroff; echo -n "starting serial-getty service ..."; serv
 alias espreset='if [ $(gpio -g read 5) = 0 ]; then (gpio -g write 6 0; gpio -g mode 6 out; sleep 1; beep; gpio -g mode 6 in); else espstatus; fi'
 alias espflashingon='if [ $(gpio -g read 5) = 0 ]; then (gpio write 26 0; gpio mode 26 out; espreset); else espstatus; fi'
 alias espflashingoff='if [ $(gpio -g read 5) = 0 ]; then (gpio mode 26 up; gpio mode 26 in; espreset); else espstatus; fi'
-alias espstatus='if [ $(gpio -g read 5) = 0 ]; then echo "esp power is oni, please deactivate with esppoweroff"; else echo "esp power is off, please activate via esppoweron"; fi'
+alias espstatus='if [ $(gpio -g read 5) = 0 ]; then echo "esp power is on, please deactivate with esppoweroff"; else echo "esp power is off, please activate via esppoweron"; fi'
 alias beep='gpio mode 1 out; gpio write 1 1; sleep 0.1; gpio write 1 0; gpio mode 1 in'
 alias redon='gpio mode 27 out; gpio write 27 1'
 alias redglow='gpio mode 27 in; gpio mode 27 up'
