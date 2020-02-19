@@ -44,7 +44,7 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ## Assembling
 
-![GC2-xHAT PCB with assambling hints](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHAT-Hint.jpg)
+![GC2-xHAT PCB with assambling hints](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHATv1.0-hint.png)
 
 
 ### Components list
