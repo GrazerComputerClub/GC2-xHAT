@@ -42,8 +42,12 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ![GC2-xHAT](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHAT.jpg)
 
+## Assembling
 
-## Components list
+![GC2-xHAT PCB with assambling hints](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHAT-Hint.jpg)
+
+
+### Components list
 	
 10 x Resistor 470 o. 1K  (LED*: R3, R4, R13, R14 ; Protect: R8, R9, R10, R15, R16, R17)  
  4 x Resistor 4K7 (5V->3V: R1 ; Pull-up: R6, R7 ; Transistor base: R11)  
