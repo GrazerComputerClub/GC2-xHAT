@@ -65,6 +65,7 @@ Hints:
 - Solder R8, R9, R10 lying on backside (to not disturb switches) or
 - Advanced people can solder SMD1206 resistors instead of classic standing ones 
 - Buzzer can be very loud, solder 47 KOhm resistor for silent operation
+- Solder DS18B20 with maximum wire length to keep it away from board heat sources  
 
 ### Components list
 	
@@ -92,7 +93,7 @@ Hints:
  1 x EEPROM STM M24C64-WMN6 (24C64) ** 
  2 x SMD 1206 resistor 3K9 (R18, R19)  
  1 x Capacity 100nF (C1)  
- 2 x Spacer M2.5  
+ 2 x Spacer 1 cm, M2.5  
  2 x Bolt M2.5
 
 \* Please choose LED resistor corresponding to LED type and 3.3 V, usually 1 KOhm is ok, but our green LED is a low current type, so even 47K makes a satisfying light  
