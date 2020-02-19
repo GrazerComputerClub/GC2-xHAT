@@ -46,6 +46,25 @@ Raspberry Pi Zero Extended HAT for Raspjamming and other Events
 
 ![GC2-xHAT PCB with assambling hints](https://github.com/GrazerComputerClub/GC2-xHAT/raw/master/GC2-xHATv1.0-hint.png)
 
+Order recommendation:
+
+- Start with SMD components (FET, EEPROM, resistors)
+- ...
+- Switches
+- 40-pin Header 
+- 8-pin Header (need soldering before Buzzer!) 
+- Buzzer 
+- 14-pin socket 100nF capacitor backside
+- 14-pin Socket
+- Place electrical tape on backside of 7-seg display
+- 7-seg display
+
+Hints: 
+- Swiches: Only solder two opposite contacts 
+- Standing resistors: Solder short wire first
+- Solder R8, R9, R10 lying on backside (to not disturb switches) or
+- Advanced people can solder SMD1206 resistors instead of classic standing ones 
+- Buzzer can be very loud, solder 47 KOhm resistor for silent operation
 
 ### Components list
 	
