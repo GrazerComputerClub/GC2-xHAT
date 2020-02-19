@@ -90,7 +90,7 @@ Hints:
  1 x TM1637 4 Digi LED display modul (GND, VCC, DIO, CLK)  
  1 x Buzzer (O 12mm, 7.2mm holes) (SG3)  
  1 x FET IRLML6401 (Q1)  
- 1 x EEPROM STM M24C64-WMN6 (24C64) ** 
+ 1 x EEPROM STM M24C64-WMN6 (24C64) **  
  2 x SMD 1206 resistor 3K9 (R18, R19)  
  1 x Capacity 100nF (C1)  
  2 x Spacer 1 cm, M2.5  
