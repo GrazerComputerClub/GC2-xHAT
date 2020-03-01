@@ -132,7 +132,7 @@ Buzzer:
 * [Amazon](https://www.amazon.de/s?k=Beeper+5V)
 
 
-Recommanded 3d-printer case for Raspberry Pi B+, 2B, 3B, 3B+ (
+## Recommanded 3d-printer case for Raspberry Pi B+, 2B, 3B, 3B+ 
 
 [Raspberry Pi case (model B+ / 2 / 3)](https://www.thingiverse.com/thing:559858) by Adrien12  is licensed under the Attribution - Non-Commercial - Share Alike license.
 [BY-NC-SA](http://creativecommons.org/licenses/by-nc-sa/3.0/)
