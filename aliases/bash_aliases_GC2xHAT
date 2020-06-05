@@ -1,6 +1,6 @@
 #aliases for GC2-xHAT 1.0
 alias atpoweron='echo "activating external 3V3 supply for ATmega and ESP"; gpio -g mode 5 out; gpio -g write 5 0'
-alias atpoweroff='echo deactivating external 3V3 supply for Atmega and ESP; gpio -g mode 5 in'
+alias atpoweroff='echo deactivating external 3V3 supply for Atmega and ESP; gpio -g mode 5 in; gpio -g mode 5 up'
 alias esppoweron='echo -n "stopping serial-getty service..."; service serial-getty@ttyAMA0 stop; sleep 1; echo "OK"; gpio mode 26 in; gpio mode 26 up; atpoweron'
 alias esppoweroff='atpoweroff; echo -n "starting serial-getty service ..."; service serial-getty@ttyAMA0 start; echo "OK"'
 alias espreset='if [ $(gpio -g read 5) = 0 ]; then (gpio -g write 6 0; gpio -g mode 6 out; sleep 1; beep; gpio -g mode 6 in); else espstatus; fi'
